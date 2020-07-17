@@ -1,0 +1,5 @@
+C:\Users\xiaob\Desktop\C#\1929401194 白宇峤-第1周\sy1-2\bin\Debug\sy1-2.exe.config
+C:\Users\xiaob\Desktop\C#\1929401194 白宇峤-第1周\sy1-2\bin\Debug\sy1-2.exe
+C:\Users\xiaob\Desktop\C#\1929401194 白宇峤-第1周\sy1-2\bin\Debug\sy1-2.pdb
+C:\Users\xiaob\Desktop\C#\1929401194 白宇峤-第1周\sy1-2\obj\Debug\sy1-2.exe
+C:\Users\xiaob\Desktop\C#\1929401194 白宇峤-第1周\sy1-2\obj\Debug\sy1-2.pdb
