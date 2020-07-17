@@ -1,0 +1,6 @@
+C:\Users\xiaob\Desktop\C#\作业\程序\1929401194 白宇峤-第2周\sy2-7\bin\Debug\sy2-7.exe.config
+C:\Users\xiaob\Desktop\C#\作业\程序\1929401194 白宇峤-第2周\sy2-7\bin\Debug\sy2-7.exe
+C:\Users\xiaob\Desktop\C#\作业\程序\1929401194 白宇峤-第2周\sy2-7\bin\Debug\sy2-7.pdb
+C:\Users\xiaob\Desktop\C#\作业\程序\1929401194 白宇峤-第2周\sy2-7\obj\Debug\sy2-7.csprojAssemblyReference.cache
+C:\Users\xiaob\Desktop\C#\作业\程序\1929401194 白宇峤-第2周\sy2-7\obj\Debug\sy2-7.exe
+C:\Users\xiaob\Desktop\C#\作业\程序\1929401194 白宇峤-第2周\sy2-7\obj\Debug\sy2-7.pdb
